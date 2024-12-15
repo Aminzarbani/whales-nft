@@ -1,1 +1,6 @@
-1##https://looksrare.org/collections/usb://1002/UsbStorage/BT-BU1.MP3
+# Whales NFT 
+Source code of NFT generator and traits.   
+Generator config is [here](config.yaml).   
+Collection seed is:
+```whales gonna whale```
+
